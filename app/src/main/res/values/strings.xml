@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntentImplicita</string>
+    <string name="acao_ao_suportada">Ação não suportada.</string>
+    <string name="acao_nao_permitida">Ação não permitida.</string>
+    <string name="compartilhar_conteudo">Compartilhamento via Intent</string>
+    <string-array name="acoes">
+        <item>Navegador</item>
+        <item>Discador</item>
+        <item>Chamada telefonica</item>
+        <item>Mapa</item>
+        <item>Lista Telefonica</item>
+        <item>SMS</item>
+        <item>Compartilhamento</item>
+        <item>Alarme</item>
+        <item>Busca na web</item>
+        <item>Configurações</item>
+    </string-array>
+</resources>
